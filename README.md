@@ -1,9 +1,7 @@
-📖 Quantum Reader
-
+# 📖 Quantum Reader
 Website pembaca file PDF interaktif dengan fitur canggih seperti single page & continuous scroll, zoom, bookmark, thumbnails, dark mode, serta navigasi gesture.
 
-
-🚀 Fitur Utama
+# 🚀 Fitur Utama
 
 ✅ Upload & drag-drop file PDF
 
@@ -22,8 +20,7 @@ Website pembaca file PDF interaktif dengan fitur canggih seperti single page & c
 
 ✅ Responsive untuk mobile & desktop
 
-
-🛠 Teknologi
+# 🛠 Teknologi
 
 • HTML, CSS (Glassmorphism UI)
 
@@ -33,11 +30,10 @@ Website pembaca file PDF interaktif dengan fitur canggih seperti single page & c
 
 • Font Awesome untuk ikon
 
-
-🎯 Tujuan
+# 🎯 Tujuan
 Proyek ini dibuat untuk mempermudah user membaca dokumen PDF secara online dengan pengalaman pengguna (UX) yang lebih baik, ringan, dan dapat berjalan di browser modern tanpa plugin tambahan.
 
-⚙️ Cara Menjalankan
+# ⚙️ Cara Menjalankan
 • Clone repository ini
 ```bash
 git clone https://github.com/raihan801/Quantum-Reader-.git
