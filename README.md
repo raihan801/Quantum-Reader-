@@ -40,7 +40,7 @@ Proyek ini dibuat untuk mempermudah user membaca dokumen PDF secara online denga
 ⚙️ Cara Menjalankan
 • Clone repository ini
 ```bash
-git clone https://github.com/raihan801/Quantum-Reader.git
+git clone https://github.com/raihan801/Quantum-Reader-.git
 ```
 • Buka index.html di browser modern (Chrome / Edge / Firefox).
 Tidak memerlukan server atau instalasi tambahan.
