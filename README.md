@@ -3,9 +3,14 @@
 Website pembaca file PDF interaktif dengan fitur canggih seperti single page & continuous scroll, zoom, bookmark, thumbnails, dark mode, serta navigasi gesture.
 
 🚀 Fitur Utama
+
 ✅ Upload & drag-drop file PDF
-✅ Navigasi halaman: tombol & gesture (klik kiri/kanan)
+
+✅ Navigasi halaman: tombol & gesture
+(klik kiri/kanan)
+
 ✅ Zoom in/out hingga 300%
+
 ✅ Mode single-page atau continuous scroll
 ✅ Thumbnails preview halaman
 ✅ Bookmark halaman favorit
